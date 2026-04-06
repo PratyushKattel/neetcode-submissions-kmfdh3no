@@ -1,3 +1,4 @@
+# A brute force o(n^2) solution 
 from collections import Counter,defaultdict
 class Solution:
     def characterReplacement(self, s: str, k: int) -> int:
